@@ -41,4 +41,8 @@ Convenções adotadas no ambiente de trabalho para o projeto API:
 
 - O utilizado durante os testes. Por ele é possível fazer o envio das requisições e a análise do retorno
 
+## Observações Importantes
+
+- Para ter acesso ao GET do api/conversions é necessário informar o parâmetro /api/conversions?dataCotacao=YYYYMMDD
+
 
